@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ClickDrama</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="profile">Profile</string>
+    <string name="empty_content">No Drama Found</string>
+    <string name="all">All</string>
+    <string name="section_trending">Trending</string>
+    <string name="section_latest">Latest</string>
+    <string name="section_recommendation">Recommendation</string>
+    <string name="back">Back</string>
+    <string name="explore">Explore</string>
+    <string name="name">Devilia Dwi Candra</string>
+    <string name="email">deviliadcandra@gmail.com</string>
+    <string name="detail">Detail</string>
+    <string name="serach">Search</string>
+    <string name="about">About Me</string>
+    <string name="add_favorite">Add Favorite</string>
+    <string name="remove_favorite">Remove Favorite</string>
+</resources>
